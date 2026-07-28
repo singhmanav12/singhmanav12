@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/singhmanavendra)
+<img src="https://leetcode-stats-card.vercel.app/singhmanavendra theme=dark" alt="LeetCode Stats" />
