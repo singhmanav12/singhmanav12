@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/singhmanav12)
+![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/singhmanavendra)
