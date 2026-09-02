@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=singhmanav12&theme=github_dark" />
-</p>
 
 # Manavendra Pratap Singh
 
@@ -11,6 +8,16 @@ Undergraduate Computer Science student with a focus on cloud computing and DevOp
 ## About
 
 I am an undergraduate CS student with practical experience in containerization, orchestration, and cloud deployments. I enjoy designing and delivering full-stack applications and infrastructure that are production-ready and secure.
+
+<p align="center">
+  <a href="https://github.com/singhmanav12">
+    <img src="https://komarev.com/ghpvc/?username=ArjavJain-27&label=Profile%20Views&color=0e75b6&style=flat"/>
+  </a>
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=singhmanav12&theme=github_dark" />
+</p>
+
 
 ###
 
@@ -110,5 +117,11 @@ Live demo: (link to be added)
 - Live site: (link to be added)
 
 ---
+<div align="center">
 
-Thank you for visiting my profile. I am open to collaboration, internships, and freelance opportunities related to cloud, DevOps, and full-stack development.
+⭐ Thanks for visiting my profile! I am open to collaboration, internships, and freelance opportunities related to cloud, DevOps, and full-stack development.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00D4FF&height=100&section=footer"/>
+
+</div>
+
