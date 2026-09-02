@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=singhmanav12&theme=github_dark" />
+</p>
+
 # Manavendra Pratap Singh
 
 Undergraduate Computer Science student with a focus on cloud computing and DevOps. Hands-on experience with Docker and Kubernetes; interested in building reliable, scalable systems.
