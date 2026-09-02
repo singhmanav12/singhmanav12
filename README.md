@@ -11,7 +11,7 @@ I am an undergraduate CS student with practical experience in containerization, 
 
 <p align="center">
   <a href="https://github.com/singhmanav12">
-    <img src="https://komarev.com/ghpvc/?username=ArjavJain-27&label=Profile%20Views&color=0e75b6&style=flat"/>
+    <img src="https://komarev.com/ghpvc/?username=singhmanav12&label=Profile%20Views&color=0e75b6&style=flat"/>
   </a>
 </p>
 <p align="center">
