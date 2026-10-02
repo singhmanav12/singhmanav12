@@ -34,6 +34,7 @@ I am an undergraduate CS student with practical experience in containerization, 
 
 ## Tech & Tools
 
+- Languages: Python, Go/Golang, C/C++, Java, JavaScript
 - DevOps & Cloud: Docker, Kubernetes, AWS EC2
 - Backend: Django (Python)
 - Frontend: React, TypeScript
